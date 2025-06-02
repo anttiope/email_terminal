@@ -22,5 +22,11 @@
         "to": ["admin"],
         "title": "wtf are you kidding me?",
         "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+    },
+    {
+        "from": "Ms Green",
+        "to": ["team"],
+        "title": "Summary of report on Clyde Baughman",
+        "body": "D.O.B. 3/28/1935<br>FAMILY: Wife, Marlene (8/20/1938 to 11/2/1992); Daughter, Sharodn (9/12/1957).<br>OCCUPATION: <br>AFFILIATION: Active with group from 1957 to 1960, taking part in eleven operation (details unavailable). Numerous consultations with a specialty in taxation and property confiscations. No current association with group."
     }
 ]
