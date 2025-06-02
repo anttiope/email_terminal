@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "MAJESTIC-12",
+    "serverName": "FAIRFIELD/Royal",
     "iconName": "delta-green.png",
-    "terminalID": "Royal/Green",
+    "terminalID": "t",
     "defaultUser": {
         "userId": "user",
         "password": "",
