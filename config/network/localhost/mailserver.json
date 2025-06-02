@@ -27,6 +27,6 @@
         "from": "Ms Green",
         "to": ["a"],
         "title": "<span class=glow style='font-size: 1em'>Summary of report on Clyde Baughman</span>", 
-        "body": "<p class=desync style='font-size: 3em'>BOUGHMAN, CLYDE</p><table><tr style='vertical-align: bottom;'><td><img src=config/network/localhost/boughman.png style='width: 10rem' class=glitch></td><td>D.O.B. 3/28/1935<br>FAMILY: Wife, Marlene (8/20/1938 to 11/2/1992); Daughter, Sharon (9/12/1957).<br>OCCUPATION:<br>AFFILIATION: Active with group from 1957 to 1960, taking part in eleven operation (details unavailable). Numerous consultations with a specialty in taxation and property confiscations. No current association with group.</td></tr></table>"
+        "body": "<p style='font-size: 3em'>BOUGHMAN, CLYDE</p><table><tr style='vertical-align: bottom;'><td><img src=config/network/localhost/boughman.png style='width: 10rem' class=glitch></td><td>D.O.B. 3/28/1935<br>FAMILY: Wife, Marlene (8/20/1938 to 11/2/1992); Daughter, Sharon (9/12/1957).<br>OCCUPATION:<br>AFFILIATION: Active with group from 1957 to 1960, taking part in eleven operation (details unavailable). Numerous consultations with a specialty in taxation and property confiscations. No current association with group.</td></tr></table>"
     }
 ]
