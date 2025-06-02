@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Royal",
+    "serverName": "MAJESTIC-12",
     "iconName": "delta-green.png",
-    "terminalID": "t",
+    "terminalID": "Royal/Green",
     "defaultUser": {
         "userId": "user",
         "password": "",
