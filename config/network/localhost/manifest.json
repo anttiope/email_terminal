@@ -1,5 +1,5 @@
 {
-    "serverAddress": "q-files.accesslevel-5.delta-sec.net",
+    "serverAddress": "localhost",
     "serverName": "DELTA GREEN",
     "iconName": "delta-green.png",
     "terminalID": "delta-sec",
