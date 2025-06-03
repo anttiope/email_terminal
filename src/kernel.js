@@ -45,7 +45,6 @@ function setHeader( msg ) {
     <h2 style="letter-spacing: 4px">${ serverDatabase.serverName }</h2>
     <p>Logged in: ${ serverDatabase.serverAddress } (&nbsp;${ dateStr }&nbsp;) </p>
     ${ serverDatabase.headerExtraHTML || "" }
-    <p>Enter "help" for more information.</p>
     `;
     // Clear content:
     output_.innerHTML = "";
@@ -54,7 +53,7 @@ function setHeader( msg ) {
         term.loadHistoryFromLocalStorage( serverDatabase.initialHistory );
     }
     output( [ header, msg ] ).then( () => applySFX() );
-    $( ".prompt" ).html( promptText );
+    $( ".prom pt" ).html( promptText );
 }
 
 /**
