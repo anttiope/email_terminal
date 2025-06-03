@@ -45,7 +45,7 @@ function setHeader( msg ) {
     <h2 style="letter-spacing: 4px">${ serverDatabase.serverName }</h2>
     <p>Logged in: ${ serverDatabase.serverAddress } (&nbsp;${ dateStr }&nbsp;) </p>
     ${ serverDatabase.headerExtraHTML || "" }
-    <br>
+    <p>Enter "help" for more information.</p>
     `;
     // Clear content:
     output_.innerHTML = "";
