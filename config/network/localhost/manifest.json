@@ -1,8 +1,8 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "FAIRFIELD",
+    "serverAddress": "q-files.accesslevel-5.delta-sec.net",
+    "serverName": "DELTA GREEN",
     "iconName": "delta-green.png",
-    "terminalID": "royal",
+    "terminalID": "delta-sec",
     "defaultUser": {
         "userId": "user",
         "password": "",
