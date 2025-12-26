@@ -9,6 +9,6 @@
         "from": "Ms Green",
         "to": ["a"],
         "title": "<span class=glow style='font-size: 1em'>Dashcam</span>", 
-        "body": "<table><tr style='vertical-align: bottom;'><td><img src=config/network/localhost/moonchild/dashcam.png style='width: 10rem'></td><td><span class='glow' style='font-size: 3em'>DASHCAM IMAGE</span></td></tr></table>"
+        "body": "<table><tr style='vertical-align: bottom;'><td><img src=config/network/localhost/moonchild/dashcam.png style='width: 10rem'></td></tr></table>"
     }
 ]
